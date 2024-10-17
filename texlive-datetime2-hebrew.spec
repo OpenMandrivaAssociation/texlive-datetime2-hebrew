@@ -3,7 +3,7 @@ Version:	47534
 Release:	2
 Summary:	Hebrew language module for the datetime2 package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-hebrew
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-hebrew
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-hebrew.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-hebrew.doc.r%{version}.tar.xz
